@@ -11,7 +11,7 @@ except IndexError:
 else:
     root = Tk()
     root.configure(bg="black")
-
+    root.title("Logger")
     frame1 = Frame(root)
     frame1.configure(bg="black",width=800,height=800)
 
