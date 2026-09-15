@@ -8,4 +8,5 @@ This tool is to write detailed http vulnerability reports
  $ python3 log.py [file_to_write]
 ```
 ## Logger's Ui
-<img width="1920" height="1042" alt="Screenshot_2025-09-11_12_08_03" src="https://github.com/user-attachments/assets/35f70226-cf3e-4e2c-9615-1f3f0d93c940" />
+<img width="1844" height="870" alt="Screenshot_2026-09-15_04_52_04" src="https://github.com/user-attachments/assets/250bf1af-2939-4de9-807b-1b5053ad67ae" />
+
